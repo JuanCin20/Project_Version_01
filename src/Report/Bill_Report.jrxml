@@ -129,7 +129,7 @@
 			</textField>
 			<image hAlign="Center" vAlign="Middle">
 				<reportElement x="0" y="10" width="230" height="30" uuid="17fd3f8f-0aa1-4b28-a508-571051e8b847"/>
-				<imageExpression><![CDATA["E:\\Project_Version_01\\src\\Report\\Bill_Report_Image.png"]]></imageExpression>
+				<imageExpression><![CDATA["https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/1280px-Samsung_Logo.svg.png"]]></imageExpression>
 			</image>
 		</band>
 	</title>
