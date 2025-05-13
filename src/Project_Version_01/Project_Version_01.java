@@ -19,4 +19,14 @@ public class Project_Version_01 {
     public static void main(String[] args) throws SQLException {
         MySQL_Connection.Function_Connection();
     }
+
+    private byte byteVariable = 1;
+    private short shortVariable = 10;
+    private long longVariable = 10L;
+    private int intVariable = 10;
+    private double doubleVariable = 10.00;
+    private float floatVariable = 10;
+    private char charVariable = 'J';
+    private String stringVariable = "Juan Carlos";
+    private boolean booleanVariable = false;
 }
