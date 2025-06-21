@@ -532,7 +532,6 @@ public class InternalFrame_New_Sell extends javax.swing.JInternalFrame {
 
         Button_01.setBackground(new java.awt.Color(51, 153, 255));
         Button_01.setFont(new java.awt.Font("Yu Gothic UI", 1, 14)); // NOI18N
-        Button_01.setForeground(new java.awt.Color(0, 0, 0));
         Button_01.setText("Buscar");
         Button_01.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -680,7 +679,6 @@ public class InternalFrame_New_Sell extends javax.swing.JInternalFrame {
 
         Button_02.setBackground(new java.awt.Color(51, 153, 255));
         Button_02.setFont(new java.awt.Font("Yu Gothic UI", 1, 14)); // NOI18N
-        Button_02.setForeground(new java.awt.Color(0, 0, 0));
         Button_02.setText("Buscar");
         Button_02.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -820,9 +818,7 @@ public class InternalFrame_New_Sell extends javax.swing.JInternalFrame {
         TextField_15.setBackground(new java.awt.Color(153, 204, 255));
         TextField_15.setFont(new java.awt.Font("Yu Gothic UI", 1, 14)); // NOI18N
 
-        Button_04.setBackground(new java.awt.Color(255, 255, 255));
         Button_04.setFont(new java.awt.Font("Yu Gothic UI", 1, 14)); // NOI18N
-        Button_04.setForeground(new java.awt.Color(0, 0, 0));
         Button_04.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imágenes/Printer.png"))); // NOI18N
         Button_04.setText("Registrar Venta");
         Button_04.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -835,7 +831,6 @@ public class InternalFrame_New_Sell extends javax.swing.JInternalFrame {
 
         Button_05.setBackground(new java.awt.Color(255, 255, 153));
         Button_05.setFont(new java.awt.Font("Yu Gothic UI", 1, 14)); // NOI18N
-        Button_05.setForeground(new java.awt.Color(0, 0, 0));
         Button_05.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imágenes/ToolKit.png"))); // NOI18N
         Button_05.setText("Calcular Vuelto");
         Button_05.addActionListener(new java.awt.event.ActionListener() {
@@ -911,7 +906,6 @@ public class InternalFrame_New_Sell extends javax.swing.JInternalFrame {
 
         Button_06.setBackground(new java.awt.Color(153, 204, 255));
         Button_06.setFont(new java.awt.Font("Yu Gothic UI", 1, 14)); // NOI18N
-        Button_06.setForeground(new java.awt.Color(0, 0, 0));
         Button_06.setText("Reset");
         Button_06.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
